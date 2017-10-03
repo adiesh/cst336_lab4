@@ -89,7 +89,7 @@
          <?php 
             if (!isset($imgsToDisplay)) {
                 // show prompt to user to enter query
-                echo "<h2> Enter query to see imagees from Pixabay</h2>"; 
+                echo "<h2> Type a keyword to display a slideshow with random images from Pixabay.com</h2>"; 
                     
             } else {
                 // show carousel
